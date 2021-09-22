@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Sai Pone Tha Aung. My nickname is Apple (Editable apple. Not Steve Apple).
+My name is Sai Pone Tha Aung. My nickname is Apple (Eatable apple. Not Steve Apple).
 
 I am a Fullstack Engineer with over seven years of experience and actively seeking an opportunity to relocate to Canada.
 My main languages are PHP and Node.js. But I am trying to change it to GO because of its attractive feature and functions that I cannot get from PHP and Node.js. Mainly the concurrency and a strict typing system.
