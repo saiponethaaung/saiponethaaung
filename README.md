@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Sai Pone Tha Aung. My nickname is Apple (Editable apple. Not Steve Apple).
+
+I am a Fullstack Engineer with over seven years of experience and actively seeking an opportunity to relocate to Canada.
+My main languages are PHP and Node.js. But I am trying to change it to GO because of its attractive feature and functions that I cannot get from PHP and Node.js. Mainly the concurrency and a strict typing system.
+
+I am also interested in deno.js. But I restrain myself from learning deno.js to prevent sidetracking from learning GO and Kubernetes.
+
+Currently, I am working on a [teaching platform](https://github.com/Meaple-Education/) for my wife to teach her student from home.
+I write the backend with PHP but plan to change it into GO in the future.
+For the frontend, I use React and Vue to showcase that I am capable of those two and flutter for mobile applications.
 <!--
 **saiponethaaung/saiponethaaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
