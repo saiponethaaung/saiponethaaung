@@ -9,7 +9,7 @@ I am also interested in deno.js. But I restrain myself from learning deno.js to 
 
 Currently, I am working on a [teaching platform](https://github.com/Meaple-Education/) for my wife to teach her student from home.
 I write the backend with PHP but plan to change it into GO in the future.
-For the frontend, I use React and Vue to showcase that I am capable of those two and flutter for mobile applications.
+For the frontend, I use React and Vue for web and flutter for mobile applications.
 <!--
 **saiponethaaung/saiponethaaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
