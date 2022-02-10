@@ -8,8 +8,9 @@ My main languages are PHP and Node.js. But I am trying to change it to GO becaus
 I am also interested in deno.js. But I restrain myself from learning deno.js to prevent sidetracking from learning GO and Kubernetes.
 
 Currently, I am working on a [teaching platform](https://github.com/Meaple-Education/) for my wife to teach her student from home.
-I write the backend with PHP but plan to change it into GO in the future. I use PHP(Laravel) for API prototyping because it's easier and faster compared to other languages and deployment is simply uploaded to the VPS server. No monitor config, auto restart config, reverse proxy, deployment configuration(pm2), etc. I just create vhost in apache and it's functional and API is ready to use. Also, it's cheaper to deploy all my test applications in a single VPS.
-For the frontend, I use React and Vue for web and flutter for mobile applications.
+I write the backend with PHP but plan to change it into GO in the future. For the frontend, I use React and Vue for web and flutter for mobile applications.
+
+I use PHP(Laravel) for API prototyping for this project because it's easier and faster compared to other languages and deployment is simply uploaded to the VPS server. No monitor config, auto restart config, reverse proxy, deployment configuration(pm2), etc. I just create vhost in apache and it's functional and API is ready to use. Also, it's cheaper to deploy all my test applications in a single VPS.
 <!--
 **saiponethaaung/saiponethaaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
